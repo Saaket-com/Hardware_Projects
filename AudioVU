@@ -1,0 +1,6 @@
+Audio VU Meter Circuit with LM3914 IC
+[KiCAD,EasyEDA,LTSpice]
+•	Designed and simulated a 10-segment audio level indicator circuit using LM3914 IC in LTspice
+•	Created detailed schematic and PCB layout using EasyEDA with proper component placement and signal routing
+•	Conducted signal integrity analysis and verified frequency response characteristics
+•	Key Skills: Circuit design, PCB simulation, analog electronics, signal analysis
